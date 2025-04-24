@@ -1,5 +1,6 @@
 User-agent: Googlebot
 Disallow: /fonts/
+Disallow: /db/
 
 User-agent: *
 Allow: /
